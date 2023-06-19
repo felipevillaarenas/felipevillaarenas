@@ -6,3 +6,6 @@ I'm Felipe Villa. Data Scientist and Machine Learning, Deep Learning, and AI Ent
 - 🌱 I’m currently interested in Multi-Modal Self Supervised Learning
 - ⚡ Fun fact: I am a coffee lover (since I am Colombian and an engineer this one is kind of obvious! 😉)
 
+## Recent Post
+
+[https://medium.com/@felipe.villa.gen/](https://medium.com/@felipe.villa.gen/distribute-traning-with-pytorch-lightning-on-azure-ml-512e0cb1728f)https://medium.com/@felipe.villa.gen/distribute-traning-with-pytorch-lightning-on-azure-ml-512e0cb1728f
