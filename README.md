@@ -9,3 +9,7 @@ I'm Felipe Villa. Data Scientist and Machine Learning, Deep Learning, and AI Ent
 ## Recent Post
 
 * [Distribute Training with Pytorch Lightning on Azure ML](https://medium.com/@felipe.villa.gen/distribute-traning-with-pytorch-lightning-on-azure-ml-512e0cb1728f)
+
+## Toolset
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
