@@ -1,10 +1,7 @@
 # Hi Fellows :wave:
 
-I'm Felipe Villa.   <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" Bogota, Colombia, currently living in  Berlin, Germany.
+<p>Welcome to my page! </br> I'm Felipe, Data Scientist and Machine Learning, Deep Learning, and AI Enthusiast from <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13"/> <b>Berlin, Germany</b>. </p> 
 
-<p>Welcome to my page! </br> I'm Felipe, Data Scientist and Machine Learning, Deep Learning, and AI Enthusiast from <img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://www.flaticon.com/free-icon/germany_197571?related_id=197571" width="13"/> <b>Berlin, Germany</b>. </p> 
-
-<a href="https://www.flaticon.com/free-icons/colombia" title="colombia icons">Colombia icons created by Roundicons - Flaticon</a>
 
 - 🔭 I’m currently working on Deutsche Telekom
 - 🌱 I’m currently interested in Multi-Modal Self Supervised Learning
