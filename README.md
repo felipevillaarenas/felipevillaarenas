@@ -21,7 +21,7 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 <p>
-  <img alt="Python" src="img.shields.io/badge/python-3670A0?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=docker&logoColor=white" />
 
 
