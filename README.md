@@ -1,6 +1,6 @@
 # Hi Fellows :wave:
 
-<p>Welcome to my page! </br> I'm Felipe, Data Scientist and Machine Learning, Deep Learning, and AI Enthusiast from <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13"/> <b>Berlin, Germany</b>. </p> 
+<p>I'm Felipe, Data Scientist, Machine Learning Engineer, and Deep Learning Enthusiast from <img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="13"/> <b>Bogota, Colombia</b>, currently living in <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13"/> <b>Berlin, Germany</b>. </p> 
 
 
 - 🔭 I’m currently working on Deutsche Telekom
