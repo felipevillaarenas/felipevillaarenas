@@ -8,4 +8,4 @@ I'm Felipe Villa. Data Scientist and Machine Learning, Deep Learning, and AI Ent
 
 ## Recent Post
 
-[https://medium.com/@felipe.villa.gen/](https://medium.com/@felipe.villa.gen/distribute-traning-with-pytorch-lightning-on-azure-ml-512e0cb1728f)https://medium.com/@felipe.villa.gen/distribute-traning-with-pytorch-lightning-on-azure-ml-512e0cb1728f
+* [Distribute Training with Pytorch Lightning on Azure ML](https://medium.com/@felipe.villa.gen/distribute-traning-with-pytorch-lightning-on-azure-ml-512e0cb1728f)
