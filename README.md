@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Deutsche Telekom
-- 🌱 I’m currently interested in Multi-Modal Self Supervised Learning
+- 🌱 I’m currently interested in model alignment strategies for faithful explanations.
 - ⚡ Fun fact: I am a coffee lover (since I am Colombian and an engineer this one is kind of obvious! 😉)
 
 ## Recent Post
